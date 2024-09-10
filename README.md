@@ -10,8 +10,8 @@ Prezando sempre pelo respeito a todos e focando no
 trabalho para entregar o melhor resultado possível,
 tentando ao máximo evoluir com cada experiência e
 superar cada vez mais as expectativas.
-![img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'](https://www.instagram.com/pedro_andreola/)
-![img src='	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'](www.linkedin.com/in/pedro-andreola-6ab95b327)
+![<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'>](https://www.instagram.com/pedro_andreola/)
+![<img src='	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](www.linkedin.com/in/pedro-andreola-6ab95b327)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Andreola&show_icons=true&theme=radical) 
 
